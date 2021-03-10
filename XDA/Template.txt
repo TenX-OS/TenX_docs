@@ -1,0 +1,236 @@
+[CENTER]
+[IMG]https://github.com/TenX-OS/TenX_docs/blob/master/XDA/logo/10x_banner.png?raw=true[/IMG]
+
+[SIZE="5"][B][FONT="Trebuchet MS"]About US:[/B][/SIZE]
+. TenX-OS is an AOSP Based Custom ROM with mostly chery-picked customisations😁
+
+[SIZE="5"][B][FONT="Trebuchet MS"]Disclaimer[/B][/SIZE]
+[CODE]
+ * Your warranty is now void.
+ * We are not responsible for anything that may happen to your phone by installing any custom ROMs and/or kernels. 
+ * You do it at your own risk and take the responsibility upon yourself and you are not to blame us or XDA and its respected developers.
+ [/CODE]
+[SIZE="3"]"This is a user friendly thread, all your suggestions are important to us and will be taken into consideration.."[/SIZE]
+
+[IMG]https://github.com/TenX-OS/TenX_docs/blob/master/XDA/logo/10X_installation.png?raw=true[/IMG]
+
+[SIZE="4"][color="#e34036"][B]CLEAN FLASH :[/B][/SIZE][/COLOR]
+[SIZE="4"]Download the latest build
+Reboot to recovery 
+Take Backup (Not Necessary)
+Wipe System, Data, Cache , Dalvik
+Flash the latest build
+Reboot[/SIZE]
+
+[SIZE="4"][color="#e34036"][B]DIRTY FLASH :[/B][/SIZE][/COLOR]
+[SIZE="4"]Download the latest build 
+Reboot to recovery
+Flash the latest build and GApps
+Wipe Cache
+Reboot[/SIZE]
+
+Note : GApps are builtin. No need to flash them separately.
+
+[IMG]https://github.com/TenX-OS/TenX_docs/blob/master/XDA/logo/10X_features.png?raw=true[/IMG]
+[HIDE][CODE][LIST]
+[SIZE="4"][color="#e34036"][B]Ambient Display[/B][/SIZE][/COLOR]
+- Battery level.
+- Always on.
+- Always on (While charging).
+- New notifications.
+- Pulse on music track.
+- Double tap to trigger doze.
+- Pickup.
+- Handwave.
+- Pocket.
+- Ambient display brightness.
+- Always on display brightness.
+- Force brightness values.
+
+[SIZE="4"][color="#e34036"][B]User Interface[/B][/SIZE][/COLOR]
+- RGB Accent picker.
+- RGB Gradient picker.
+- System themes.
+- Headline/Body fonts.
+- Icon shape.
+- Statusbar icons.
+- QS Tint.
+- QS label Tint.
+- QS background image.
+
+[SIZE="4"][color="#e34036"][B]Statusbar[/B][/SIZE][/COLOR]
+- Double tap to sleep.
+- Brightness control.
+- Statusbar itemx.
+- VoLTE icons.
+- 4G/LTE toggle.
+- Date disabled icon.
+- Roaming indicator.
+- Small mobie type icon.
+- Notification count.
+- Clock.
+- Traffic indicators.
+- Custom logo.
+- Carrier label.
+- Battery styles.
+- Battery percentage.
+- Custom charging symbols.
+
+[SIZE="4"][color="#e34036"][B]Quick Settings[/B][/SIZE][/COLOR]
+- Brightness slider position.
+- Auto brightness.
+- Brightness control buttons.
+- Quick pulldown.
+- Smart pulldown.
+- QS battery percentage.
+- Quick Settings opacity.
+- Vibrate on touch Tiles.
+- Quickbar columns.
+- Portrait columns.
+- Landscape columns.
+- QS Footer text.
+- QS Footer text Fonts.
+- QS Footer warnings.
+- Settings icon.
+- Running service icon.
+- User icon.
+- Edit icon.
+
+[SIZE="4"][color="#e34036"][B]Buttons[/B][/SIZE][/COLOR]
+- Volume key cursor control.
+- Music control.
+- Volume rocker wake.
+- Volume dialog timeout.
+
+[SIZE="4"][color="#e34036"][B]Gestures[/B][/SIZE][/COLOR]
+- Gesture bar length.
+- Haptic feedback.
+- Deadzone.
+- Long swipe actions.
+- Hide/Show pill
+- 3-fingers swipe screenshot.
+
+[SIZE="4"][color="#e34036"][B]Powermenu[/B][/SIZE][/COLOR]
+- Powermenu item's toggle.
+- Powermenu item's columns.
+
+[SIZE="4"][color="#e34036"][B]System[/B][/SIZE][/COLOR]
+- Show CPU info.
+- Screenshot type (Partial/Full).
+
+[SIZE="4"][color="#e34036"][B]Lockscreen[/B][/SIZE][/COLOR]
+- Media artwork.
+- Media artwork blur.
+- Clock style.
+- Clock font.
+- Clock font size.
+- Text clock font.
+- Text clock size.
+- Date style.
+- Date font.
+- Date font size.
+- Owner info font.
+- Owner info font size.
+- Clock allignment.
+- Date allignment.
+- Owner info allignment.
+- Weather allignment.
+- Items padding.
+- Double tap to sleep.
+- Items color.
+- Shortcuts.
+- Weather.
+- Hide lock icon.
+- Hide bottom shortcuts.
+- Charging info.
+- Disable powermenu.
+- Hide Quick Settings.
+
+[SIZE="4"][color="#e34036"][B]Notifications[/B][/SIZE][/COLOR]
+- Edge lightning.
+- Heads Up.
+- Kill app button.
+- Noisy notifications.
+
+[SIZE="4"][color="#e34036"][B]Battery[/B][/SIZE][/COLOR]
+- Smart Pixels.
+- Suspend actions.
+- Block sensors.
+
+[SIZE="4"][color="#e34036"][B]Animations[/B][/SIZE][/COLOR]
+- QS Tile animations.
+- AOKP/Ethan's animations.
+- Powermenu animations.
+- Screen-off animations.
+- Toast animations.
+- Scrolling cache.
+- Animation's duration.
+- Disable animations.
+
+[SIZE="4"][color="#e34036"][B]Miscellaneous[/B][/SIZE][/COLOR]
+- Gaming mode.
+- Wake on plug.
+
+More to come soon!..Stay Tuned!!![/LIST][/CODE][/HIDE]
+
+[IMG]https://github.com/TenX-OS/TenX_docs/blob/master/XDA/logo/10X_downloads.png?raw=true[/IMG]
+[SIZE="3"]Download ROM[B]:[URL="https://sourceforge.net/projects/tenx-os/files/<device name>"]TenX-OS[/URL][/SIZE][/B]
+
+[IMG]https://github.com/TenX-OS/TenX_docs/blob/master/XDA/logo/10X_credits.png?raw=true[/IMG]
+[SIZE="4"][B]TenX Team
+[FONT="Comic Sans MS"]AOSP[/FONT]
+[FONT="Comic Sans MS"]Lineage OS[/FONT]
+[FONT="Comic Sans MS"]PixelExperience[/FONT]
+[FONT="Comic Sans MS"]ABC Roms[/FONT]
+[FONT="Comic Sans MS"]AospExtended[/FONT]
+[FONT="Comic Sans MS"]Syberia OS[/FONT]
+[FONT="Comic Sans MS"]Nitrogen OS[/FONT] 
+[FONT="Comic Sans MS"]Havoc OS[/FONT]
+[FONT="Comic Sans MS"]MSM-Xtended[/FONT][/B][/SIZE]
+
+[IMG]https://github.com/TenX-OS/TenX_docs/blob/master/XDA/logo/10X_team.png?raw=true[/IMG]
+[SIZE="4"][B][FONT="Comic Sans MS"]Advaith Bhat[/FONT][/B]
+[B][FONT="Comic Sans MS"]Madhav Saladi[/FONT][/B]
+[B][FONT="Comic Sans MS"]Roger T[/FONT][/B]
+
+[B][U]Special thanks:[/U][/B]
+[B][FONT="Comic Sans MS"]Roger T[/FONT][/B]
+
+[IMG]https://github.com/TenX-OS/TenX_docs/blob/master/XDA/logo/10X_source.png?raw=true[/IMG]
+
+[B[[SIZE="4"]][B][SIZE="4"][URL="https://github.com/TenX-OS"]TenX-OS Source Code[/URL][/SIZE][/B][/SIZE][/B]
+[B][SIZE="3"][B][SIZE="4"][URL="https://github.com/Ten-X-Devices"]TenX-OS Devices[/URL][/SIZE][/B][/SIZE][/B]
+[B][URL="https://t.me/TenX_OS"]Telegram Group[/URL][/B]
+[B][URL="https://t.me/TenX_Announcements"]Telegram Announcement Channel[/URL][/B][/SIZE]
+[B][URL="https://t.me/TenX_Updates"]Telegram Updates Channel[/URL][/B][/SIZE]
+
+
+[U][B][SIZE="4"][FONT="Arial Black"][COLOR="#e34036"]REPORTING BUGS[/COLOR][/FONT]![/SIZE][/B][/U]
+As soon as the problem occurs, take a logcat! 
+[URL="http://telegra.ph/Logcats-are-important-03-01"]for more READ THIS[/URL][/CENTER]
+
+[B][U][SIZE="4"][NOPARSE]XDA:DevDB Information[/NOPARSE][/SIZE][/U][/B]
+[SIZE="3"][B]TenX-OS, ROM for the *Your Device*[/B][/SIZE]
+[B]TenX-OS Version Name:[/B] Cyan
+[B]Device:[/B] *Your Device
+[B]Maintainer:[/B] *Your Name*
+[B]Build Type:[/B] *Official or UnOfficial*
+
+[B][U]Contributors[/U][/B]
+*Maintainer Name*
+[B]Source Code:[/B] [URL="https://github.com/TenX-OS"]TenX-OS[/URL]
+[B]Kernel Source:[/B] [URL="*source link of kernel used*"]*Name of kernel*[/URL] 
+
+[B]ROM OS Version:[/B] 11.0.x
+[B]ROM Kernel:[/B] Linux x.x
+[B]ROM Firmware Required:[/B] Must be on Latest Firmware
+[B]Based On:[/B] AOSP
+
+[B][U]Version Information[/U][/B]
+[B]Status:[/B] Stable
+[B]Current Stable Version:[/B] 2.9
+[B]SELinux Status:[/B]
+[B]Stable Release Date:[/B] 20xx-xx-xx
+
+[B]Created[/B] 20xx-xx-xx
+[B]Last Updated[/B] 20xx-xx-xx
